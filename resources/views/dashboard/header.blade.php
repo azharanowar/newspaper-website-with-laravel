@@ -16,7 +16,7 @@
     <!-- loader-->
     <link href="{{ asset('dashboardAssets') }}/assets/css/pace.min.css" rel="stylesheet" />
 
-    <title>Skodash - Bootstrap 5 Admin Template</title>
+    <title>Newspaper Website with Laravel Dashboard</title>
 </head>
 
 <body>
