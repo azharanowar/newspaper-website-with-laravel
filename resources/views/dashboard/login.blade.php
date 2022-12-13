@@ -77,5 +77,9 @@
             </div>
         </div>
     </main>
+<!--end page main-->
+
+</div>
+<!--end wrapper-->
 
 @include('dashboard.footer')
