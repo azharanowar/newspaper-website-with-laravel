@@ -7,6 +7,16 @@
 <script src="{{ asset('dashboardAssets') }}/assets/plugins/perfect-scrollbar/js/perfect-scrollbar.js"></script>
 <script src="{{ asset('dashboardAssets') }}/assets/js/pace.min.js"></script>
 <script src="{{ asset('dashboardAssets') }}/assets/plugins/apexcharts-bundle/js/apexcharts.min.js"></script>
+
+<script src="{{ asset('dashboardAssets') }}/assets/plugins/vectormap/jquery-jvectormap-2.0.2.min.js"></script>
+<script src="{{ asset('dashboardAssets') }}/assets/plugins/vectormap/jquery-jvectormap-world-mill-en.js"></script>
+<script src="{{ asset('dashboardAssets') }}/assets/plugins/apexcharts-bundle/js/apexcharts.min.js"></script>
+
+<script>
+    new PerfectScrollbar(".best-product")
+    new PerfectScrollbar(".top-sellers-list")
+</script>
+
 <!--app-->
 <script src="{{ asset('dashboardAssets') }}/assets/js/app.js"></script>
 <script src="{{ asset('dashboardAssets') }}/assets/js/index5.js"></script>
